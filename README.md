@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/radjabov/readme-typing-svg">
+    <a href="https://github.com/IlhomjonAbdusaminov/readme-typing-svg">
         <img
                 src="https://readme-typing-svg.herokuapp.com?font=Jetbrainsmono&color=%2336BCF7&size=35&center=true&vCenter=true&lines=DotNet+Developer&center=true&width=580&height=45"></a>
 </p>
@@ -34,7 +34,6 @@
   ##
   
 <div style="display: inline_block"><br>
-   <img align="center" alt="Rafa-SqlServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-original.svg">
   <img align="center" alt="Rafa-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
