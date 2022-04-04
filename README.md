@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/IlhomjonAbdusaminov/readme-typing-svg">
+    <a href="https://github.com/futdev1/readme-typing-svg">
         <img
                 src="https://readme-typing-svg.herokuapp.com?font=Jetbrainsmono&color=%2336BCF7&size=35&center=true&vCenter=true&lines=.NET+Developer&center=true&width=580&height=45"></a>
 </p>
